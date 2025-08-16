@@ -1,4 +1,4 @@
-export default data [
+export default [
   {
     id: 1,
     title: "Mount Fuji",
@@ -7,8 +7,8 @@ export default data [
     startDate: "12 Jan, 2023",
     endDate: "24 Jan, 2023",
     description:
-      "Mount Fuji is the tallest mountain in Japan, standing at 3,776 meters (12,380 feet). It is the most visited tourist site in Japan, famous for its symmetrical cone.",
-    imageUrl: "https://source.unsplash.com/WLxQvbMyfas"
+      "Mount Fuji is the tallest mountain in Japan, standing at 3,776 meters. It is the most visited tourist site in Japan, famous for its symmetrical cone.",
+    imageUrl: "https://picsum.photos/400/300?random=1"
   },
   {
     id: 2,
@@ -19,7 +19,7 @@ export default data [
     endDate: "8 Jun, 2023",
     description:
       "The Sydney Opera House is a multi-venue performing arts center at Sydney Harbour. It's one of the most recognizable and photographed buildings in the world.",
-    imageUrl: "https://source.unsplash.com/JmuyB_LibRo"
+    imageUrl: "https://picsum.photos/400/300?random=2"
   },
   {
     id: 3,
@@ -30,7 +30,7 @@ export default data [
     endDate: "18 Nov, 2024",
     description:
       "The Geiranger Fjord is a UNESCO World Heritage Site in the Sunnmøre region. Known for deep blue waters and majestic cliffs with cascading waterfalls.",
-    imageUrl: "https://source.unsplash.com/3PeSjpLVtLg"
+    imageUrl: "https://picsum.photos/400/300?random=3"
   },
   {
     id: 4,
@@ -41,7 +41,7 @@ export default data [
     endDate: "17 Apr, 2023",
     description:
       "A natural wonder in Arizona, carved by the Colorado River, offering breathtaking vistas and hiking trails.",
-    imageUrl: "https://source.unsplash.com/eNoeWZkO7Zc"
+    imageUrl: "https://picsum.photos/400/300?random=4"
   },
   {
     id: 5,
@@ -52,7 +52,7 @@ export default data [
     endDate: "15 Jun, 2023",
     description:
       "A volcanic island in the Cyclades, known for white-washed houses, blue-domed churches, and sunsets over the caldera.",
-    imageUrl: "https://source.unsplash.com/9wg5jCEPBsw"
+    imageUrl: "https://picsum.photos/400/300?random=5"
   },
   {
     id: 6,
@@ -63,7 +63,7 @@ export default data [
     endDate: "28 Aug, 2023",
     description:
       "An Incan citadel set high in the Andes Mountains, famous for its dry-stone walls and panoramic views.",
-    imageUrl: "https://source.unsplash.com/oMpAz-DN-9I"
+    imageUrl: "https://picsum.photos/400/300?random=6"
   },
   {
     id: 7,
@@ -74,7 +74,7 @@ export default data [
     endDate: "25 Feb, 2023",
     description:
       "An Indonesian paradise known for forested volcanic mountains, beaches, coral reefs, and vibrant culture.",
-    imageUrl: "https://source.unsplash.com/A-NVHPka9Rk"
+    imageUrl: "https://picsum.photos/400/300?random=7"
   },
   {
     id: 8,
@@ -85,7 +85,7 @@ export default data [
     endDate: "15 Sep, 2023",
     description:
       "An ancient city carved into pink sandstone cliffs, also known as the Rose City, and one of the New Seven Wonders of the World.",
-    imageUrl: "https://source.unsplash.com/1K8pIbIrhkQ"
+    imageUrl: "https://picsum.photos/400/300?random=8"
   },
   {
     id: 9,
@@ -96,7 +96,7 @@ export default data [
     endDate: "04 Mar, 2023",
     description:
       "The Eiffel Tower is an iconic iron structure in Paris, visited by millions annually for its views of the city.",
-    imageUrl: "https://source.unsplash.com/6VhPY27jdps"
+    imageUrl: "https://picsum.photos/400/300?random=9"
   },
   {
     id: 10,
@@ -107,6 +107,6 @@ export default data [
     endDate: "22 Jul, 2023",
     description:
       "Canada’s oldest national park, located in the Rocky Mountains, known for turquoise lakes and snowy peaks.",
-    imageUrl: "https://source.unsplash.com/VinlTUsVgUo"
+    imageUrl: "https://picsum.photos/400/300?random=10"
   }
 ];
